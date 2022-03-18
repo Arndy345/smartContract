@@ -6,7 +6,7 @@ IPFS LINKS:
 	"name": "Dog",
 	"image": "https://ipfs.io/ipfs/QmRnQiLcjGXpExYXcEv6U85CrkoqN7JMju58jodkexd7eA?filename=dog.jfif",
 	"description": "Blockgames ERC721 task"
-},
+}
 {
 	"name": "Peaky Blinders",
 	"image": "https://ipfs.io/ipfs/Qmb2VyaYHrAheM9kqBkNVXrfBeNV2TyQPr7xwWdyx8AmNp?filename=nft.jpeg",
